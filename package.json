@@ -1,0 +1,28 @@
+{
+  "name": "projeto",
+  "version": "1.0.0",
+  "description": "<h4 align=\"center\"> \r \t🚧  API REST 🚀 Em construção...  🚧\r </h4>",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon api/index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/br3nds0n/api-fornecedor-estoque.git"
+  },
+  "author": "brendson",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/br3nds0n/api-fornecedor-estoque/issues"
+  },
+  "homepage": "https://github.com/br3nds0n/api-fornecedor-estoque#readme",
+  "dependencies": {
+    "body-parser": "^1.19.1",
+    "config": "^3.3.6",
+    "express": "^4.17.2",
+    "mysql2": "^2.3.3",
+    "nodemon": "^2.0.15",
+    "sequelize": "^6.12.0"
+  }
+}
