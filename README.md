@@ -1,5 +1,5 @@
 ## ⚙ API cadastro
 
-> <h4> 
-	Status: 🚧 API REST 🚀 Em construção... 🚧
-</h4>
+<p align="center">
+<code> 🚧 API REST 🚀 Em construção... 🚧</code>
+</p>
