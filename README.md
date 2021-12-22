@@ -1,6 +1,6 @@
 ## ⚙ API cadastro fornecedor e estoque
 
-  > <code> <b>status code:</b> API Finalizada 🚀✅ </code>
+  > <code> <b>status code:</b> 🚧  API REST 🚀 Em construção...  🚧</code>
 
 ![Capturar](https://user-images.githubusercontent.com/82064724/147016371-7c2ef8f2-6f7c-4e03-b36d-87e2ef263fcf.PNG)
 
