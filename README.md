@@ -1,5 +1,6 @@
-## ⚙ API cadastro
+## ⚙ API cadastro fornecedor e estoque
 
-<p align="center">
-<code> 🚧 API REST 🚀 Em construção... 🚧</code>
+
+<p align="rigth"> 
+  <code> <b>status code:</b> API Finalizada 🚀✅ </code>
 </p>
