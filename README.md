@@ -24,4 +24,4 @@ API desenvolvida para cadastro de fornecedores e estoque, com validação dos st
 
 ### Clonar Repositório
 ```
-https://github.com/br3nds0n/petshop-api.git
+https://github.com/br3nds0n/api-fornecedor-estoque.git
